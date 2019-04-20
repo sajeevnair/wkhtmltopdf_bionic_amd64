@@ -1,10 +1,10 @@
 {
-    "name": "sajeevnair/wkhtmltopdf_bionic_amd64",
+    "name": "sajeevnair/wkhtmltopdf-amd64",
     "description": "Convert html to pdf using webkit (qtwebkit). Static linked linux binary for Ubuntu 18.04 (bionic) amd64",
     "license": "GPL-3.0-or-later",
     "minimum-stability": "stable",
     "bin": [
-        "bin/wkhtmltopdf_bionic_amd64"
+        "bin/wkhtmltopdf-amd64"
     ],
     "require": {}
 }
